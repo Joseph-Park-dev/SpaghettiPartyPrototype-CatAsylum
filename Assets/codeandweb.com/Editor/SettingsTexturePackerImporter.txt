@@ -1,0 +1,24 @@
+version: 2
+importPivots: 1
+tpsheetFileNames:
+- Assets/03_Sprites/Doctor/SpriteSheets/DoctorIdle_sp.tpsheet
+- Assets/03_Sprites/Doctor/SpriteSheets/DoctorWalking_sp.tpsheet
+- Assets/03_Sprites/Robert/SpriteSheets/Robert_Jump_Run_sp.tpsheet
+- Assets/03_Sprites/Robert/SpriteSheets/Robert_sp.tpsheet
+- Assets/03_Sprites/Robert/SpriteSheets/RobertIdle_sp.tpsheet
+- Assets/codeandweb.com/Example/SpriteSheet/sprites.tpsheet
+textureFileNames:
+- Assets/03_Sprites/Doctor/SpriteSheets/DoctorIdle_sp.png
+- Assets/03_Sprites/Doctor/SpriteSheets/DoctorWalking_sp.png
+- Assets/03_Sprites/Robert/SpriteSheets/Robert_Jump_Run_sp.png
+- Assets/03_Sprites/Robert/SpriteSheets/Robert_sp.png
+- Assets/03_Sprites/Robert/SpriteSheets/RobertIdle_sp.png
+- Assets/codeandweb.com/Example/SpriteSheet/sprites.png
+normalmapFileNames:
+- 
+- 
+- 
+- 
+- 
+- Assets/codeandweb.com/Example/SpriteSheet/sprites_n.png
+enableDebugOutput: 0

@@ -1,0 +1,2056 @@
+fileFormatVersion: 2
+guid: f010f4fe0770ac141a5baef1cff1201f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6888569723054960681
+    second: Robert_Jumping_Anim_00001
+  - first:
+      213: -906642927776443912
+    second: Robert_Jumping_Anim_00002
+  - first:
+      213: 3280817174716369991
+    second: Robert_Jumping_Anim_00003
+  - first:
+      213: -312297098270898936
+    second: Robert_Jumping_Anim_00004
+  - first:
+      213: 178910381453080884
+    second: Robert_Jumping_Anim_00005
+  - first:
+      213: 8626210639674465387
+    second: Robert_Jumping_Anim_00006
+  - first:
+      213: 1556154243094976864
+    second: Robert_Jumping_Anim_00007
+  - first:
+      213: 8405074681428385994
+    second: Robert_Jumping_Anim_00008
+  - first:
+      213: 2052614794061041432
+    second: Robert_Jumping_Anim_00009
+  - first:
+      213: 5643414419633255848
+    second: Robert_Jumping_Anim_00010
+  - first:
+      213: -6594353664718424661
+    second: Robert_Jumping_Anim_00011
+  - first:
+      213: 1298743692303483127
+    second: Robert_Jumping_Anim_00012
+  - first:
+      213: -335735319049539728
+    second: Robert_Jumping_Anim_00013
+  - first:
+      213: -1540192220257136444
+    second: Robert_Jumping_Anim_00014
+  - first:
+      213: -3886315718248738485
+    second: Robert_Jumping_Anim_00015
+  - first:
+      213: 4762727358856827910
+    second: Robert_Jumping_Anim_00016
+  - first:
+      213: 280059956236073039
+    second: Robert_Jumping_Anim_00017
+  - first:
+      213: -5908999507838211352
+    second: Robert_Jumping_Anim_00018
+  - first:
+      213: -8627728193100914051
+    second: Robert_Jumping_Anim_00019
+  - first:
+      213: -7760032981859112079
+    second: Robert_Running_Anim_00001
+  - first:
+      213: -6662284989773223533
+    second: Robert_Running_Anim_00002
+  - first:
+      213: -2590556691373538837
+    second: Robert_Running_Anim_00003
+  - first:
+      213: -6790240030944991107
+    second: Robert_Running_Anim_00004
+  - first:
+      213: -1463508755447028696
+    second: Robert_Running_Anim_00005
+  - first:
+      213: 4047055927155925129
+    second: Robert_Running_Anim_00006
+  - first:
+      213: 8710321661738315701
+    second: Robert_Running_Anim_00007
+  - first:
+      213: 9086657879691433591
+    second: Robert_Running_Anim_00008
+  - first:
+      213: 195374098540047927
+    second: Robert_Running_Anim_00009
+  - first:
+      213: -2129525101204720862
+    second: Robert_Running_Anim_00010
+  - first:
+      213: 6731286301928011880
+    second: Robert_Running_Anim_00011
+  - first:
+      213: 6487115705461070863
+    second: Robert_Jump_Run_sp_0
+  - first:
+      213: 3635384418030136314
+    second: Robert_Jump_Run_sp_1
+  - first:
+      213: 7926216353270325360
+    second: Robert_Jump_Run_sp_2
+  - first:
+      213: 7201818258901913771
+    second: Robert_Jump_Run_sp_3
+  - first:
+      213: 9139242043607296172
+    second: Robert_Jump_Run_sp_4
+  - first:
+      213: -8272390757963141371
+    second: Robert_Jump_Run_sp_5
+  - first:
+      213: 5576790527980563584
+    second: Robert_Jump_Run_sp_6
+  - first:
+      213: -5265625085872936259
+    second: Robert_Jump_Run_sp_7
+  - first:
+      213: -1924419257195729737
+    second: Robert_Jump_Run_sp_8
+  - first:
+      213: -5818995001059718169
+    second: Robert_Jump_Run_sp_9
+  - first:
+      213: -5140264283342450967
+    second: Robert_Jump_Run_sp_10
+  - first:
+      213: -3452584066816229291
+    second: Robert_Jump_Run_sp_11
+  - first:
+      213: 3455937988773106748
+    second: Robert_Jump_Run_sp_12
+  - first:
+      213: -9072416813868553759
+    second: Robert_Jump_Run_sp_13
+  - first:
+      213: -7268877744557569712
+    second: Robert_Jump_Run_sp_14
+  - first:
+      213: 5362840838584160824
+    second: Robert_Jump_Run_sp_15
+  - first:
+      213: -7619278527733870487
+    second: Robert_Jump_Run_sp_16
+  - first:
+      213: 107337629199175782
+    second: Robert_Jump_Run_sp_17
+  - first:
+      213: 4244380622750550586
+    second: Robert_Jump_Run_sp_18
+  - first:
+      213: 5948722113789231966
+    second: Robert_Jump_Run_sp_19
+  - first:
+      213: 7655284065686198392
+    second: Robert_Jump_Run_sp_20
+  - first:
+      213: -7131304729471173069
+    second: Robert_Jump_Run_sp_21
+  - first:
+      213: -321772376866136179
+    second: Robert_Jump_Run_sp_22
+  - first:
+      213: 2287107067602276090
+    second: Robert_Jump_Run_sp_23
+  - first:
+      213: 9203424406683881830
+    second: Robert_Jump_Run_sp_24
+  - first:
+      213: 3978872586070844249
+    second: Robert_Jump_Run_sp_25
+  - first:
+      213: 7247390952143021355
+    second: Robert_Jump_Run_sp_26
+  - first:
+      213: -3873681453346084779
+    second: Robert_Jump_Run_sp_27
+  - first:
+      213: 2185785544713789947
+    second: Robert_Jump_Run_sp_28
+  - first:
+      213: -6508926446009405912
+    second: Robert_Jump_Run_sp_29
+  - first:
+      213: 4648588610240759031
+    second: Robert_Animation_ANI_00001
+  - first:
+      213: -2140864727688136473
+    second: Robert_Animation_ANI_00002
+  - first:
+      213: -7429057926590378108
+    second: Robert_Animation_ANI_00003
+  - first:
+      213: -2718847586287067880
+    second: Robert_Animation_ANI_00004
+  - first:
+      213: 2075596281479243939
+    second: Robert_Animation_ANI_00005
+  - first:
+      213: -7992603495048354108
+    second: Robert_Animation_ANI_00006
+  - first:
+      213: -6142768193152307405
+    second: Robert_Animation_ANI_00007
+  - first:
+      213: -6038545601926817226
+    second: Robert_Animation_ANI_00008
+  - first:
+      213: -9172909005980901891
+    second: Robert_Animation_ANI_00009
+  - first:
+      213: -3412101665438639570
+    second: Robert_Animation_ANI_00010
+  - first:
+      213: -5000681049495625103
+    second: Robert_Animation_ANI_00011
+  - first:
+      213: 5349347209118782872
+    second: Robert_Animation_ANI_00012
+  - first:
+      213: 7848043921188993131
+    second: Robert_Animation_ANI_00013
+  - first:
+      213: 6299671678554232065
+    second: Robert_Animation_ANI_00014
+  - first:
+      213: -1708517565031492873
+    second: Robert_Animation_ANI_00015
+  - first:
+      213: -4059829397773155172
+    second: Robert_Animation_ANI_00016
+  - first:
+      213: 7745151315314236272
+    second: Robert_Animation_ANI_00017
+  - first:
+      213: -2753278856125313891
+    second: Robert_Animation_ANI_00018
+  - first:
+      213: -3220025763509120746
+    second: Robert_Animation_ANI_00019
+  - first:
+      213: 7002799838755761678
+    second: Robert_Animation_ANI_00020
+  - first:
+      213: -8107855984667986543
+    second: Robert_Animation_ANI_00021
+  - first:
+      213: -1548949934053300019
+    second: Robert_Animation_ANI_00022
+  - first:
+      213: 7793100011090723210
+    second: Robert_Animation_ANI_00023
+  - first:
+      213: 9076911798319497299
+    second: Robert_Animation_ANI_00024
+  - first:
+      213: -4122171459107325260
+    second: Robert_Animation_ANI_00025
+  - first:
+      213: 5431109925252481651
+    second: Robert_Animation_ANI_00026
+  - first:
+      213: -5758679480065445504
+    second: Robert_Animation_ANI_00027
+  - first:
+      213: 8196348286550347503
+    second: Robert_Animation_ANI_00028
+  - first:
+      213: 8818462691037812849
+    second: Robert_Animation_ANI_00029
+  - first:
+      213: -5372381240650032914
+    second: Robert_Animation_ANI_00030
+  - first:
+      213: -4240655816426728977
+    second: Robert_Animation_ANI_00031
+  - first:
+      213: 6332671346935735706
+    second: Robert_Animation_ANI_00032
+  - first:
+      213: 2576602755317632480
+    second: Robert_Animation_ANI_00033
+  - first:
+      213: -313207123906751523
+    second: Robert_Animation_ANI_00034
+  - first:
+      213: -112556601475825469
+    second: Robert_Animation_ANI_00035
+  - first:
+      213: 6009207371126573324
+    second: Robert_Animation_ANI_00036
+  - first:
+      213: -108957237006704422
+    second: Robert_Animation_ANI_00037
+  - first:
+      213: -8077076597189490143
+    second: Robert_Animation_ANI_00038
+  - first:
+      213: 2692860082082733395
+    second: Robert_Animation_ANI_00039
+  - first:
+      213: -728841251173040108
+    second: Robert_Animation_ANI_00040
+  - first:
+      213: -533641029582265205
+    second: Robert_Animation_ANI_00041
+  - first:
+      213: 2447131401306651752
+    second: Robert_Animation_ANI_00042
+  - first:
+      213: 9076683495774274257
+    second: Robert_Animation_ANI_00043
+  - first:
+      213: -1393365501583356197
+    second: Robert_Animation_ANI_00044
+  - first:
+      213: 8521912406292273577
+    second: Robert_Animation_ANI_00045
+  - first:
+      213: 7237737666470101617
+    second: Robert_Animation_ANI_00046
+  - first:
+      213: -1445505358349007613
+    second: Robert_Animation_ANI_00047
+  - first:
+      213: -7401898465745506963
+    second: Robert_Animation_ANI_00048
+  - first:
+      213: -4150319020357263051
+    second: Robert_Animation_ANI_00049
+  - first:
+      213: 3706915818145306422
+    second: Robert_Animation_ANI_00050
+  - first:
+      213: 3810882853241609465
+    second: Robert_Animation_ANI_00051
+  - first:
+      213: -3277596323707215273
+    second: Robert_Animation_ANI_00052
+  - first:
+      213: -2216242299632051819
+    second: Robert_Animation_ANI_00053
+  - first:
+      213: 8874769833252574525
+    second: Robert_Animation_ANI_00054
+  - first:
+      213: 4481503855539925397
+    second: Robert_Animation_ANI_00055
+  - first:
+      213: 4020676202554825063
+    second: Robert_Animation_ANI_00056
+  - first:
+      213: 4692515336652722885
+    second: Robert_Animation_ANI_00057
+  - first:
+      213: 5209314616540778878
+    second: Robert_Animation_ANI_00058
+  - first:
+      213: -1487357677153358526
+    second: Robert_Animation_ANI_00059
+  - first:
+      213: 3160045843353789786
+    second: Robert_Animation_ANI_00060
+  - first:
+      213: 7327612863107466653
+    second: Robert_Animation_ANI_00061
+  - first:
+      213: -6224836185145255871
+    second: Robert_Animation_ANI_00062
+  - first:
+      213: 3904796683116333539
+    second: Robert_Animation_ANI_00063
+  - first:
+      213: 9106823667192820080
+    second: Robert_Animation_ANI_00064
+  - first:
+      213: 281255663289372939
+    second: Robert_Animation_ANI_00065
+  - first:
+      213: -3259234259334031506
+    second: Robert_Animation_ANI_00066
+  - first:
+      213: -949747019041985332
+    second: Robert_Animation_ANI_00067
+  - first:
+      213: 3922507422033524679
+    second: Robert_Animation_ANI_00068
+  - first:
+      213: -2064210704099747080
+    second: Robert_Animation_ANI_00069
+  - first:
+      213: 1158816003666402898
+    second: Robert_Animation_ANI_00070
+  - first:
+      213: -4326552785345309182
+    second: Robert_Animation_ANI_00071
+  - first:
+      213: -4905765474410007504
+    second: Robert_Animation_ANI_00072
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 45
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Robert_Jumping_Anim_00001
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3424
+        width: 672
+        height: 672
+      alignment: 9
+      pivot: {x: 0.5, y: 0.20572917}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 20, y: 116}
+        - {x: -2, y: 102}
+        - {x: 3, y: -79}
+        - {x: -290, y: -134}
+        - {x: -295, y: -164}
+        - {x: -287, y: -188}
+        - {x: 136, y: -192}
+        - {x: 145, y: -187}
+        - {x: 142, y: 66}
+        - {x: 48, y: 116}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62a3fe7a0b431bf4793db7d1b64a7250
+      internalID: -6888569723054960681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robert_Jumping_Anim_00002
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2752
+        width: 672
+        height: 672
+      alignment: 9
+      pivot: {x: 0.5, y: 0.20572917}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 144, y: 90}
+        - {x: 88, y: 140}
+        - {x: -19, y: 137}
+        - {x: 9, y: -54}
+        - {x: -280, y: -167}
+        - {x: -290, y: -198}
+        - {x: -24, y: -199}
+        - {x: 69, y: -197}
+        - {x: 110, y: -180}
+        - {x: 144, y: -28}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebdf19b3e749e4d40b3bdc014c1a31a1
+      internalID: -906642927776443912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robert_Jumping_Anim_00003
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2080
+        width: 672
+        height: 672
+      alignment: 9
+      pivot: {x: 0.5, y: 0.20572917}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 144, y: 152}
+        - {x: 70, y: 170}
+        - {x: -32, y: 170}
+        - {x: 27, y: -25}
+        - {x: -276, y: -154}
+        - {x: -278, y: -154}
+        - {x: -277, y: -200}
+        - {x: 86, y: -201}
+        - {x: 158, y: -86}
+        - {x: 158, y: 140}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2728fa69025c3ac4eb0b13e139f043c9
+      internalID: 3280817174716369991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robert_Jumping_Anim_00004
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1408
+        width: 672
+        height: 672
+      alignment: 9
+      pivot: {x: 0.5, y: 0.20572917}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 14, y: 199}
+        - {x: 12, y: -19}
+        - {x: -273, y: -138}
+        - {x: -273, y: -210}
+        - {x: 112, y: -210}
+        - {x: 178, y: -44}
+        - {x: 178, y: 176}
+        - {x: 158, y: 198}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 723234be65b747c4c9511fa95825fbe4
+      internalID: -312297098270898936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robert_Jumping_Anim_00005
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 736
+        width: 672
+        height: 672
+      alignment: 9
+      pivot: {x: 0.5, y: 0.20572917}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 36, y: 216}
+        - {x: 7, y: -39}
+        - {x: -272, y: -93}
+        - {x: -274, y: -150}
+        - {x: -257, y: -218}
+        - {x: 137, y: -218}
+        - {x: 200, y: -198}
+        - {x: 200, y: 214}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1529df93d561bd240a4f16474630e241
+      internalID: 178910381453080884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robert_Jumping_Anim_00006
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 672
+        height: 672
+      alignment: 9
+      pivot: {x: 0.5, y: 0.20572917}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -276, y: -223}
+        - {x: 183, y: -223}
+        - {x: 214, y: -84}
+        - {x: 214, y: 216}
+        - {x: 57, y: 216}
+        - {x: 4, y: -36}
+        - {x: -275, y: -23}
+      tessellationDetail: 0
+      bones: []
+      spriteID: aad78999f269b5a43a2ed47f1b20f980
+      internalID: 8626210639674465387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robert_Jumping_Anim_00007
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 3424
+        width: 672
+        height: 672
+      alignment: 9
+      pivot: {x: 0.5, y: 0.20572917}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 36, y: -166}
+        - {x: 80, y: -120}
+        - {x: 150, y: -20}
+        - {x: 160, y: -34}
+        - {x: 204, y: -40}
+        - {x: 210, y: -34}
+        - {x: 192, y: -17}
+        - {x: 213, y: -7}
+        - {x: 184, y: 28}
+        - {x: 194, y: 90}
+        - {x: 222, y: 126}
+        - {x: 222, y: 144}
+        - {x: 214, y: 182}
+        - {x: 198, y: 206}
+        - {x: 108, y: 216}
+        - {x: 62, y: 216}
+        - {x: 46, y: 180}
+        - {x: 90, y: 108}
+        - {x: 56, y: 10}
+        - {x: -6, y: -40}
+        - {x: -106, y: -50}
+        - {x: -160, y: -36}
+        - {x: -208, y: 52}
+        - {x: -256, y: 18}
+        - {x: -256, y: -20}
+        - {x: -242, y: -60}
+        - {x: -182, y: -106}
+        - {x: -96, y: -110}
+        - {x: -32, y: -104}
+        - {x: -54, y: -200}
+        - {x: -42, y: -230}
+        - {x: -24, y: -242}
+        - {x: -16, y: -242}
+        - {x: -12, y: -240}
+        - {x: -4, y: -194}
+        - {x: 12, y: -218}
+        - {x: 32, y: -220}
+      tessellationDetail: 0.14
+      bones: []
+      spriteID: f3bcbf12059bef64cb8bc64605241f05
+      internalID: 1556154243094976864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robert_Jumping_Anim_00008
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 3424
+        width: 672
+        height: 672
+      alignment: 9
+      pivot: {x: 0.5, y: 0.20572917}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 60, y: -134}
+        - {x: 76, y: -120}
+        - {x: 82, y: -108}
+        - {x: 102, y: -84}
+        - {x: 166, y: -2}
+        - {x: 190, y: -20}
+        - {x: 200, y: -24}
+        - {x: 240, y: -6}
+        - {x: 240, y: 14}
+        - {x: 234, y: 28}
+        - {x: 180, y: 60}
+        - {x: 226, y: 128}
+        - {x: 224, y: 152}
+        - {x: 202, y: 208}
+        - {x: 126, y: 212}
+        - {x: 64, y: 212}
+        - {x: 50, y: 174}
+        - {x: 92, y: 106}
+        - {x: 54, y: 8}
+        - {x: -28, y: -48}
+        - {x: -122, y: -26}
+        - {x: -154, y: 0}
+        - {x: -146, y: 60}
+        - {x: -156, y: 90}
+        - {x: -202, y: 80}
+        - {x: -224, y: 58}
+        - {x: -224, y: -18}
+        - {x: -180, y: -76}
+        - {x: -126, y: -94}
+        - {x: -48, y: -92}
+        - {x: -32, y: -90}
+        - {x: -66, y: -180}
+        - {x: -60, y: -240}
+        - {x: -38, y: -250}
+        - {x: -34, y: -250}
+        - {x: -28, y: -248}
+        - {x: -30, y: -226}
+        - {x: 18, y: -230}
+        - {x: 42, y: -140}
+      tessellationDetail: 0.14
+      bones: []
+      spriteID: f881bb531fffad64e95fc3763c3d528b
+      internalID: 8405074681428385994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robert_Jumping_Anim_00009
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 3424
+        width: 672
+        height: 672
+      alignment: 9
+      pivot: {x: 0.5, y: 0.20572917}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 34, y: -138}
+        - {x: 64, y: -132}
+        - {x: 160, y: -14}
+        - {x: 174, y: 12}
+        - {x: 228, y: 6}
+        - {x: 256, y: 38}
+        - {x: 256, y: 54}
+        - {x: 224, y: 74}
+        - {x: 172, y: 62}
+        - {x: 224, y: 128}
+        - {x: 226, y: 152}
+        - {x: 196, y: 206}
+        - {x: 60, y: 206}
+        - {x: 44, y: 168}
+        - {x: 96, y: 80}
+        - {x: 54, y: 8}
+        - {x: -40, y: -44}
+        - {x: -126, y: 12}
+        - {x: -126, y: 50}
+        - {x: -100, y: 60}
+        - {x: -78, y: 90}
+        - {x: -142, y: 118}
+        - {x: -180, y: 78}
+        - {x: -192, y: 50}
+        - {x: -192, y: 2}
+        - {x: -178, y: -30}
+        - {x: -150, y: -60}
+        - {x: -114, y: -78}
+        - {x: -96, y: -88}
+        - {x: -40, y: -90}
+        - {x: -72, y: -182}
+        - {x: -72, y: -246}
+        - {x: -52, y: -256}
+        - {x: -48, y: -256}
+        - {x: -42, y: -254}
+        - {x: -20, y: -212}
+        - {x: 0, y: -230}
+        - {x: 10, y: -234}
+      tessellationDetail: 0.14
+      bones: []
+      spriteID: 6a735b20fca679b41a3f6cf84d96632a
+      internalID: 2052614794061041432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robert_Jumping_Anim_00010
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 3424
+        width: 672
+        height: 672
+      alignment: 9
+      pivot: {x: 0.5, y: 0.20572917}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 24, y: -136}
+        - {x: 60, y: -132}
+        - {x: 166, y: -10}
+        - {x: 192, y: 22}
+        - {x: 248, y: 44}
+        - {x: 254, y: 82}
+        - {x: 254, y: 88}
+        - {x: 218, y: 108}
+        - {x: 224, y: 146}
+        - {x: 194, y: 204}
+        - {x: 50, y: 204}
+        - {x: 54, y: 176}
+        - {x: 34, y: 168}
+        - {x: 92, y: 80}
+        - {x: 58, y: 8}
+        - {x: 12, y: -18}
+        - {x: -30, y: -48}
+        - {x: -88, y: -14}
+        - {x: -100, y: 36}
+        - {x: -36, y: 62}
+        - {x: -38, y: 76}
+        - {x: -62, y: 114}
+        - {x: -108, y: 114}
+        - {x: -138, y: 96}
+        - {x: -166, y: 58}
+        - {x: -166, y: 2}
+        - {x: -152, y: -34}
+        - {x: -118, y: -70}
+        - {x: -54, y: -98}
+        - {x: -82, y: -208}
+        - {x: -78, y: -250}
+        - {x: -70, y: -260}
+        - {x: -56, y: -260}
+        - {x: -32, y: -204}
+        - {x: -20, y: -236}
+        - {x: -6, y: -232}
+        - {x: 0, y: -222}
+      tessellationDetail: 0.14
+      bones: []
+      spriteID: 0f3de79c175ff6e40a5f878a991db3bd
+      internalID: 5643414419633255848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robert_Jumping_Anim_00011
+      rect:
+        serializedVersion: 2
+        x: 3360
+        y: 3424
+        width: 672
+        height: 672
+      alignment: 9
+      pivot: {x: 0.5, y: 0.20572917}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 12, y: -142}
+        - {x: 54, y: -128}
+        - {x: 104, y: -86}
+        - {x: 162, y: -12}
+        - {x: 248, y: 44}
+        - {x: 252, y: 66}
+        - {x: 252, y: 110}
+        - {x: 248, y: 112}
+        - {x: 216, y: 120}
+        - {x: 206, y: 106}
+        - {x: 214, y: 118}
+        - {x: 218, y: 140}
+        - {x: 196, y: 196}
+        - {x: 184, y: 200}
+        - {x: 102, y: 200}
+        - {x: 40, y: 194}
+        - {x: 34, y: 156}
+        - {x: 86, y: 54}
+        - {x: 12, y: -14}
+        - {x: -74, y: -16}
+        - {x: -38, y: 34}
+        - {x: -12, y: 30}
+        - {x: -4, y: 40}
+        - {x: -10, y: 86}
+        - {x: -38, y: 106}
+        - {x: -88, y: 116}
+        - {x: -146, y: 60}
+        - {x: -146, y: -38}
+        - {x: -62, y: -104}
+        - {x: -90, y: -194}
+        - {x: -92, y: -250}
+        - {x: -78, y: -264}
+        - {x: -68, y: -264}
+        - {x: -44, y: -210}
+        - {x: -28, y: -256}
+        - {x: -12, y: -234}
+      tessellationDetail: 0.14
+      bones: []
+      spriteID: c3f012f5f634764479726702ec853c2c
+      internalID: -6594353664718424661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robert_Jumping_Anim_00012
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 2752
+        width: 672
+        height: 672
+      alignment: 9
+      pivot: {x: 0.5, y: 0.20572917}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 158, y: -36}
+        - {x: 168, y: 2}
+        - {x: 256, y: 62}
+        - {x: 256, y: 96}
+        - {x: 254, y: 112}
+        - {x: 248, y: 114}
+        - {x: 242, y: 112}
+        - {x: 232, y: 126}
+        - {x: 226, y: 130}
+        - {x: 220, y: 128}
+        - {x: 204, y: 164}
+        - {x: 192, y: 192}
+        - {x: 46, y: 192}
+        - {x: 36, y: 142}
+        - {x: 84, y: 46}
+        - {x: 28, y: -6}
+        - {x: -58, y: -28}
+        - {x: -66, y: 28}
+        - {x: -14, y: 2}
+        - {x: 22, y: -2}
+        - {x: 18, y: 96}
+        - {x: -70, y: 114}
+        - {x: -124, y: 68}
+        - {x: -134, y: 36}
+        - {x: -134, y: -16}
+        - {x: -98, y: -74}
+        - {x: -60, y: -88}
+        - {x: -116, y: -222}
+        - {x: -100, y: -264}
+        - {x: -88, y: -264}
+        - {x: -84, y: -260}
+        - {x: -28, y: -236}
+        - {x: 8, y: -134}
+        - {x: 36, y: -148}
+      - - {x: 224, y: 114}
+        - {x: 206, y: 108}
+        - {x: 196, y: 100}
+        - {x: 186, y: 86}
+      tessellationDetail: 0.14
+      bones: []
+      spriteID: 5fb769626a6488a45988448125eaaad2
+      internalID: 1298743692303483127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robert_Jumping_Anim_00013
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 2080
+        width: 672
+        height: 672
+      alignment: 9
+      pivot: {x: 0.5, y: 0.20572917}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 46, y: -130}
+        - {x: 118, y: -66}
+        - {x: 146, y: -40}
+        - {x: 200, y: 10}
+        - {x: 264, y: 52}
+        - {x: 264, y: 80}
+        - {x: 260, y: 106}
+        - {x: 254, y: 108}
+        - {x: 248, y: 106}
+        - {x: 248, y: 100}
+        - {x: 248, y: 106}
+        - {x: 256, y: 138}
+        - {x: 212, y: 184}
+        - {x: 50, y: 184}
+        - {x: 44, y: 136}
+        - {x: 88, y: 78}
+        - {x: 66, y: 14}
+        - {x: -34, y: -36}
+        - {x: -58, y: 18}
+        - {x: -12, y: -14}
+        - {x: 4, y: -12}
+        - {x: 30, y: 22}
+        - {x: 28, y: 50}
+        - {x: -2, y: 92}
+        - {x: -62, y: 102}
+        - {x: -124, y: 58}
+        - {x: -126, y: 42}
+        - {x: -126, y: -24}
+        - {x: -108, y: -54}
+        - {x: -70, y: -84}
+        - {x: -126, y: -212}
+        - {x: -126, y: -246}
+        - {x: -120, y: -260}
+        - {x: -110, y: -260}
+        - {x: -104, y: -256}
+        - {x: -80, y: -218}
+        - {x: -60, y: -246}
+        - {x: -48, y: -234}
+      tessellationDetail: 0.14
+      bones: []
+      spriteID: 64904537657e7654ea3110f46d1f06d1
+      internalID: -335735319049539728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robert_Jumping_Anim_00014
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 1408
+        width: 672
+        height: 672
+      alignment: 9
+      pivot: {x: 0.5, y: 0.20572917}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 30, y: -144}
+        - {x: 168, y: -30}
+        - {x: 266, y: 24}
+        - {x: 274, y: 32}
+        - {x: 274, y: 80}
+        - {x: 268, y: 82}
+        - {x: 262, y: 80}
+        - {x: 266, y: 88}
+        - {x: 264, y: 114}
+        - {x: 254, y: 118}
+        - {x: 232, y: 112}
+        - {x: 218, y: 170}
+        - {x: 134, y: 180}
+        - {x: 76, y: 180}
+        - {x: 74, y: 178}
+        - {x: 56, y: 144}
+        - {x: 56, y: 2}
+        - {x: 18, y: -12}
+        - {x: -46, y: -36}
+        - {x: -58, y: 8}
+        - {x: -16, y: -20}
+        - {x: 2, y: -16}
+        - {x: 42, y: 8}
+        - {x: 12, y: 90}
+        - {x: -24, y: 98}
+        - {x: -86, y: 88}
+        - {x: -108, y: 58}
+        - {x: -124, y: 30}
+        - {x: -124, y: -28}
+        - {x: -86, y: -74}
+        - {x: -134, y: -154}
+        - {x: -148, y: -208}
+        - {x: -148, y: -242}
+        - {x: -142, y: -248}
+        - {x: -116, y: -248}
+        - {x: -90, y: -240}
+        - {x: -78, y: -232}
+        - {x: -34, y: -150}
+      tessellationDetail: 0.14
+      bones: []
+      spriteID: 6aaa23f5141a652499f2b508fe578037
+      internalID: -1540192220257136444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robert_Jumping_Anim_00015
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 736
+        width: 672
+        height: 672
+      alignment: 9
+      pivot: {x: 0.5, y: 0.20572917}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 278, y: -38}
+        - {x: 284, y: -28}
+        - {x: 288, y: -14}
+        - {x: 294, y: 12}
+        - {x: 288, y: 16}
+        - {x: 228, y: -6}
+        - {x: 270, y: 14}
+        - {x: 286, y: 22}
+        - {x: 290, y: 48}
+        - {x: 286, y: 52}
+        - {x: 260, y: 110}
+        - {x: 156, y: 164}
+        - {x: 136, y: 164}
+        - {x: 102, y: 146}
+        - {x: 102, y: 34}
+        - {x: 74, y: 6}
+        - {x: -52, y: -30}
+        - {x: -76, y: 6}
+        - {x: -44, y: 48}
+        - {x: -38, y: 28}
+        - {x: -18, y: 12}
+        - {x: -8, y: 14}
+        - {x: 14, y: 62}
+        - {x: 8, y: 86}
+        - {x: -46, y: 124}
+        - {x: -104, y: 102}
+        - {x: -128, y: 84}
+        - {x: -150, y: 24}
+        - {x: -124, y: -42}
+        - {x: -86, y: -66}
+        - {x: -148, y: -120}
+        - {x: -190, y: -168}
+        - {x: -190, y: -200}
+        - {x: -180, y: -208}
+        - {x: -152, y: -170}
+        - {x: -132, y: -208}
+        - {x: -120, y: -208}
+        - {x: -40, y: -140}
+        - {x: 32, y: -138}
+        - {x: 180, y: -58}
+      tessellationDetail: 0.14
+      bones: []
+      spriteID: 68922ffc795c286458d172952dae07b0
+      internalID: -3886315718248738485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robert_Jumping_Anim_00016
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 64
+        width: 672
+        height: 672
+      alignment: 9
+      pivot: {x: 0.5, y: 0.20572917}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 112, y: -104}
+        - {x: 262, y: -132}
+        - {x: 292, y: -96}
+        - {x: 288, y: -84}
+        - {x: 192, y: -72}
+        - {x: 186, y: -70}
+        - {x: 254, y: -80}
+        - {x: 280, y: -82}
+        - {x: 290, y: -74}
+        - {x: 302, y: -58}
+        - {x: 302, y: -38}
+        - {x: 296, y: -16}
+        - {x: 274, y: 32}
+        - {x: 226, y: 114}
+        - {x: 170, y: 102}
+        - {x: 80, y: -6}
+        - {x: -30, y: -12}
+        - {x: -112, y: 28}
+        - {x: -72, y: 82}
+        - {x: -58, y: 108}
+        - {x: -76, y: 132}
+        - {x: -88, y: 146}
+        - {x: -132, y: 146}
+        - {x: -146, y: 144}
+        - {x: -174, y: 124}
+        - {x: -192, y: 80}
+        - {x: -192, y: 42}
+        - {x: -172, y: 2}
+        - {x: -140, y: -24}
+        - {x: -224, y: -90}
+        - {x: -226, y: -108}
+        - {x: -224, y: -114}
+        - {x: -196, y: -104}
+        - {x: -178, y: -156}
+        - {x: -172, y: -158}
+        - {x: -166, y: -158}
+        - {x: -84, y: -110}
+        - {x: -32, y: -128}
+        - {x: 12, y: -132}
+      tessellationDetail: 0.14
+      bones: []
+      spriteID: e41ce6e4bb3d90b4194f5368a926aff6
+      internalID: 4762727358856827910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robert_Jumping_Anim_00017
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 2752
+        width: 672
+        height: 672
+      alignment: 9
+      pivot: {x: 0.5, y: 0.20572917}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 272, y: -166}
+        - {x: 272, y: 26}
+        - {x: 264, y: 26}
+        - {x: 226, y: 38}
+        - {x: 118, y: -24}
+        - {x: -4, y: -2}
+        - {x: -82, y: 8}
+        - {x: -190, y: 86}
+        - {x: -166, y: 108}
+        - {x: -158, y: 130}
+        - {x: -182, y: 136}
+        - {x: -226, y: 136}
+        - {x: -250, y: 100}
+        - {x: -250, y: 52}
+        - {x: -240, y: 20}
+        - {x: -226, y: -20}
+        - {x: -128, y: -40}
+        - {x: -200, y: -72}
+        - {x: -206, y: -98}
+        - {x: -200, y: -106}
+        - {x: -60, y: -94}
+        - {x: -52, y: -110}
+        - {x: -38, y: -126}
+        - {x: 8, y: -130}
+        - {x: 98, y: -120}
+        - {x: 196, y: -200}
+        - {x: 222, y: -200}
+        - {x: 252, y: -178}
+        - {x: 250, y: -172}
+        - {x: 234, y: -170}
+      tessellationDetail: 0.14
+      bones: []
+      spriteID: 746d53ee5aa93c84896231e86b5e9f91
+      internalID: 280059956236073039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robert_Jumping_Anim_00018
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 2752
+        width: 672
+        height: 672
+      alignment: 9
+      pivot: {x: 0.5, y: 0.20572917}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 254, y: -188}
+        - {x: 260, y: -110}
+        - {x: 280, y: -38}
+        - {x: 280, y: -12}
+        - {x: 260, y: -16}
+        - {x: 250, y: 0}
+        - {x: 234, y: 4}
+        - {x: 160, y: -30}
+        - {x: 64, y: -18}
+        - {x: -132, y: 38}
+        - {x: -166, y: 46}
+        - {x: -198, y: 44}
+        - {x: -208, y: 110}
+        - {x: -212, y: 114}
+        - {x: -240, y: 114}
+        - {x: -272, y: 100}
+        - {x: -276, y: 96}
+        - {x: -276, y: 24}
+        - {x: -274, y: 6}
+        - {x: -236, y: -14}
+        - {x: -200, y: -32}
+        - {x: -204, y: -48}
+        - {x: -210, y: -70}
+        - {x: -206, y: -76}
+        - {x: -116, y: -66}
+        - {x: -70, y: -90}
+        - {x: -48, y: -130}
+        - {x: 82, y: -126}
+        - {x: 172, y: -224}
+        - {x: 196, y: -224}
+        - {x: 222, y: -218}
+        - {x: 224, y: -204}
+        - {x: 196, y: -196}
+        - {x: 222, y: -200}
+      tessellationDetail: 0.14
+      bones: []
+      spriteID: 4e396ac0f608d8047971447a090eb62b
+      internalID: -5908999507838211352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robert_Jumping_Anim_00019
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 2752
+        width: 672
+        height: 672
+      alignment: 9
+      pivot: {x: 0.5, y: 0.20572917}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 222, y: -198}
+        - {x: 244, y: -194}
+        - {x: 250, y: -182}
+        - {x: 252, y: -154}
+        - {x: 280, y: -58}
+        - {x: 280, y: -8}
+        - {x: 256, y: 10}
+        - {x: 234, y: 6}
+        - {x: 154, y: -30}
+        - {x: 120, y: -34}
+        - {x: -114, y: 34}
+        - {x: -164, y: 44}
+        - {x: -198, y: 42}
+        - {x: -210, y: 108}
+        - {x: -216, y: 114}
+        - {x: -250, y: 114}
+        - {x: -276, y: 94}
+        - {x: -276, y: 26}
+        - {x: -238, y: -18}
+        - {x: -218, y: -70}
+        - {x: -208, y: -76}
+        - {x: -104, y: -64}
+        - {x: -68, y: -92}
+        - {x: -44, y: -126}
+        - {x: 82, y: -126}
+        - {x: 128, y: -176}
+        - {x: 168, y: -218}
+        - {x: 174, y: -224}
+        - {x: 188, y: -224}
+        - {x: 220, y: -216}
+        - {x: 224, y: -204}
+        - {x: 186, y: -186}
+        - {x: 210, y: -196}
+      tessellationDetail: 0.14
+      bones: []
+      spriteID: f5e496939f5144a408152590416d2975
+      internalID: -8627728193100914051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robert_Running_Anim_00001
+      rect:
+        serializedVersion: 2
+        x: 3360
+        y: 2752
+        width: 672
+        height: 672
+      alignment: 9
+      pivot: {x: 0.5, y: 0.11041667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 258, y: -194}
+        - {x: 288, y: -190}
+        - {x: 306, y: -182}
+        - {x: 314, y: -166}
+        - {x: 310, y: -128}
+        - {x: 316, y: -112}
+        - {x: 316, y: -90}
+        - {x: 230, y: 10}
+        - {x: 182, y: -14}
+        - {x: 148, y: -108}
+        - {x: 50, y: -92}
+        - {x: -56, y: -4}
+        - {x: -54, y: 50}
+        - {x: -28, y: 22}
+        - {x: -14, y: 6}
+        - {x: 14, y: 10}
+        - {x: 18, y: 84}
+        - {x: -22, y: 102}
+        - {x: -74, y: 102}
+        - {x: -124, y: 70}
+        - {x: -130, y: -8}
+        - {x: -106, y: -38}
+        - {x: -64, y: -76}
+        - {x: -174, y: -116}
+        - {x: -216, y: -144}
+        - {x: -220, y: -164}
+        - {x: -214, y: -168}
+        - {x: -168, y: -160}
+        - {x: -188, y: -204}
+        - {x: -76, y: -174}
+        - {x: -6, y: -202}
+        - {x: 122, y: -212}
+        - {x: 204, y: -216}
+        - {x: 260, y: -232}
+        - {x: 312, y: -232}
+        - {x: 316, y: -222}
+        - {x: 316, y: -220}
+        - {x: 288, y: -206}
+      tessellationDetail: 0.14
+      bones: []
+      spriteID: e23f3c2c828430a4c86c4e58b84bc618
+      internalID: -7760032981859112079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robert_Running_Anim_00002
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 2080
+        width: 672
+        height: 672
+      alignment: 9
+      pivot: {x: 0.5, y: 0.11041667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 304, y: -172}
+        - {x: 302, y: -166}
+        - {x: 310, y: -130}
+        - {x: 310, y: -104}
+        - {x: 240, y: 8}
+        - {x: 186, y: 0}
+        - {x: 148, y: -110}
+        - {x: -18, y: -70}
+        - {x: -80, y: -18}
+        - {x: -98, y: 30}
+        - {x: -68, y: 26}
+        - {x: -28, y: 32}
+        - {x: -28, y: 54}
+        - {x: -52, y: 96}
+        - {x: -112, y: 96}
+        - {x: -148, y: 70}
+        - {x: -160, y: 52}
+        - {x: -160, y: -18}
+        - {x: -156, y: -44}
+        - {x: -112, y: -72}
+        - {x: -62, y: -96}
+        - {x: -100, y: -108}
+        - {x: -144, y: -158}
+        - {x: -124, y: -186}
+        - {x: -114, y: -184}
+        - {x: -102, y: -166}
+        - {x: -104, y: -216}
+        - {x: -96, y: -230}
+        - {x: -86, y: -226}
+        - {x: 50, y: -200}
+        - {x: 146, y: -204}
+        - {x: 246, y: -252}
+        - {x: 292, y: -252}
+        - {x: 296, y: -244}
+        - {x: 256, y: -196}
+        - {x: 284, y: -194}
+      tessellationDetail: 0.14
+      bones: []
+      spriteID: 8f51270d90b548243897ce65944d0303
+      internalID: -6662284989773223533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robert_Running_Anim_00003
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 1408
+        width: 672
+        height: 672
+      alignment: 9
+      pivot: {x: 0.5, y: 0.11041667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 204, y: -194}
+        - {x: 268, y: -200}
+        - {x: 286, y: -164}
+        - {x: 292, y: -144}
+        - {x: 292, y: -116}
+        - {x: 234, y: 2}
+        - {x: 192, y: -14}
+        - {x: 186, y: -26}
+        - {x: 156, y: -90}
+        - {x: 60, y: -84}
+        - {x: -64, y: -68}
+        - {x: -142, y: -20}
+        - {x: -110, y: 46}
+        - {x: -124, y: 70}
+        - {x: -134, y: 72}
+        - {x: -176, y: 72}
+        - {x: -210, y: 34}
+        - {x: -210, y: -30}
+        - {x: -184, y: -84}
+        - {x: -124, y: -112}
+        - {x: -34, y: -122}
+        - {x: -54, y: -162}
+        - {x: -64, y: -184}
+        - {x: -58, y: -218}
+        - {x: -44, y: -246}
+        - {x: -20, y: -214}
+        - {x: 116, y: -192}
+        - {x: 194, y: -272}
+        - {x: 226, y: -274}
+        - {x: 240, y: -274}
+        - {x: 244, y: -270}
+        - {x: 242, y: -264}
+        - {x: 174, y: -192}
+      tessellationDetail: 0.14
+      bones: []
+      spriteID: fa4c9751c4785cd4399abd83c3eece1c
+      internalID: -2590556691373538837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robert_Running_Anim_00004
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 736
+        width: 672
+        height: 672
+      alignment: 9
+      pivot: {x: 0.5, y: 0.11041667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 226, y: -240}
+        - {x: 222, y: -234}
+        - {x: 216, y: -232}
+        - {x: 230, y: -188}
+        - {x: 262, y: -144}
+        - {x: 262, y: -88}
+        - {x: 244, y: -6}
+        - {x: 170, y: 0}
+        - {x: 124, y: -90}
+        - {x: 52, y: -68}
+        - {x: -54, y: -86}
+        - {x: -136, y: -86}
+        - {x: -210, y: -38}
+        - {x: -210, y: -2}
+        - {x: -218, y: 2}
+        - {x: -248, y: 2}
+        - {x: -268, y: -32}
+        - {x: -268, y: -84}
+        - {x: -230, y: -128}
+        - {x: -174, y: -148}
+        - {x: -100, y: -148}
+        - {x: -16, y: -142}
+        - {x: -8, y: -192}
+        - {x: 52, y: -274}
+        - {x: 70, y: -266}
+        - {x: 80, y: -260}
+        - {x: 70, y: -234}
+        - {x: 102, y: -228}
+        - {x: 122, y: -268}
+        - {x: 128, y: -274}
+        - {x: 174, y: -274}
+        - {x: 180, y: -268}
+        - {x: 132, y: -184}
+        - {x: 194, y: -262}
+      tessellationDetail: 0.14
+      bones: []
+      spriteID: 4f32755c23ba109418cd08106efcb157
+      internalID: -6790240030944991107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robert_Running_Anim_00005
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 64
+        width: 672
+        height: 672
+      alignment: 9
+      pivot: {x: 0.5, y: 0.11041667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 186, y: -194}
+        - {x: 234, y: -148}
+        - {x: 234, y: -96}
+        - {x: 206, y: -14}
+        - {x: 178, y: -14}
+        - {x: 158, y: -20}
+        - {x: 118, y: -80}
+        - {x: 34, y: -70}
+        - {x: -4, y: -94}
+        - {x: -116, y: -118}
+        - {x: -232, y: -116}
+        - {x: -288, y: -88}
+        - {x: -290, y: -98}
+        - {x: -290, y: -134}
+        - {x: -288, y: -160}
+        - {x: -268, y: -180}
+        - {x: -222, y: -194}
+        - {x: -152, y: -190}
+        - {x: -94, y: -174}
+        - {x: -42, y: -150}
+        - {x: -2, y: -192}
+        - {x: 22, y: -246}
+        - {x: 36, y: -270}
+        - {x: 102, y: -270}
+        - {x: 118, y: -268}
+        - {x: 150, y: -212}
+        - {x: 140, y: -174}
+        - {x: 172, y: -190}
+      tessellationDetail: 0.14
+      bones: []
+      spriteID: 72675dc610f1cd24da083176bd447431
+      internalID: -1463508755447028696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robert_Running_Anim_00006
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 2080
+        width: 672
+        height: 672
+      alignment: 9
+      pivot: {x: 0.5, y: 0.11041667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 110, y: -186}
+        - {x: 174, y: -196}
+        - {x: 220, y: -146}
+        - {x: 220, y: -108}
+        - {x: 216, y: -90}
+        - {x: 192, y: -12}
+        - {x: 152, y: -12}
+        - {x: 138, y: -16}
+        - {x: 92, y: -76}
+        - {x: 30, y: -72}
+        - {x: -50, y: -108}
+        - {x: -242, y: -162}
+        - {x: -266, y: -146}
+        - {x: -294, y: -150}
+        - {x: -294, y: -182}
+        - {x: -266, y: -228}
+        - {x: -200, y: -226}
+        - {x: -136, y: -206}
+        - {x: -38, y: -158}
+        - {x: -16, y: -168}
+        - {x: 12, y: -230}
+        - {x: -2, y: -266}
+        - {x: 20, y: -284}
+        - {x: 32, y: -284}
+        - {x: 54, y: -276}
+        - {x: 82, y: -266}
+        - {x: 90, y: -256}
+        - {x: 66, y: -222}
+      tessellationDetail: 0.14
+      bones: []
+      spriteID: da6a20cdc7c300343a65ccec8288f060
+      internalID: 4047055927155925129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robert_Running_Anim_00007
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 2080
+        width: 672
+        height: 672
+      alignment: 9
+      pivot: {x: 0.5, y: 0.11041667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 128, y: -186}
+        - {x: 198, y: -174}
+        - {x: 222, y: -120}
+        - {x: 224, y: -116}
+        - {x: 224, y: -106}
+        - {x: 172, y: 2}
+        - {x: 154, y: 2}
+        - {x: 138, y: -6}
+        - {x: 124, y: -12}
+        - {x: -20, y: -100}
+        - {x: -180, y: -122}
+        - {x: -236, y: -126}
+        - {x: -266, y: -98}
+        - {x: -292, y: -104}
+        - {x: -292, y: -168}
+        - {x: -224, y: -204}
+        - {x: -146, y: -192}
+        - {x: -28, y: -152}
+        - {x: -16, y: -224}
+        - {x: -30, y: -248}
+        - {x: -22, y: -276}
+        - {x: -12, y: -278}
+        - {x: 54, y: -278}
+        - {x: 60, y: -272}
+        - {x: 54, y: -222}
+        - {x: 84, y: -224}
+      tessellationDetail: 0.14
+      bones: []
+      spriteID: 513ac8dddd2336b409432f59a060b694
+      internalID: 8710321661738315701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robert_Running_Anim_00008
+      rect:
+        serializedVersion: 2
+        x: 3360
+        y: 2080
+        width: 672
+        height: 672
+      alignment: 9
+      pivot: {x: 0.5, y: 0.11041667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 46, y: -228}
+        - {x: 68, y: -280}
+        - {x: 134, y: -230}
+        - {x: 156, y: -168}
+        - {x: 208, y: -180}
+        - {x: 244, y: -128}
+        - {x: 244, y: -106}
+        - {x: 188, y: 2}
+        - {x: 166, y: 2}
+        - {x: 142, y: -8}
+        - {x: 116, y: -84}
+        - {x: 34, y: -74}
+        - {x: -4, y: -90}
+        - {x: -204, y: -56}
+        - {x: -228, y: -2}
+        - {x: -246, y: -4}
+        - {x: -274, y: -38}
+        - {x: -274, y: -90}
+        - {x: -272, y: -100}
+        - {x: -174, y: -160}
+        - {x: -98, y: -148}
+        - {x: -42, y: -174}
+        - {x: -74, y: -222}
+        - {x: -52, y: -252}
+        - {x: -12, y: -286}
+        - {x: 24, y: -286}
+        - {x: -6, y: -254}
+        - {x: 74, y: -174}
+        - {x: 50, y: -216}
+      - - {x: 106, y: -214}
+        - {x: 80, y: -226}
+        - {x: 80, y: -232}
+        - {x: 82, y: -232}
+      tessellationDetail: 0.14
+      bones: []
+      spriteID: 1ffa5e695fc27314480cfb318cd61e06
+      internalID: 9086657879691433591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robert_Running_Anim_00009
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 1408
+        width: 672
+        height: 672
+      alignment: 9
+      pivot: {x: 0.5, y: 0.11041667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 270, y: -100}
+        - {x: 216, y: -10}
+        - {x: 200, y: 4}
+        - {x: 158, y: -8}
+        - {x: 120, y: -90}
+        - {x: 54, y: -78}
+        - {x: -52, y: -74}
+        - {x: -150, y: -22}
+        - {x: -122, y: 60}
+        - {x: -134, y: 64}
+        - {x: -190, y: 64}
+        - {x: -218, y: 32}
+        - {x: -218, y: -40}
+        - {x: -196, y: -74}
+        - {x: -146, y: -110}
+        - {x: -48, y: -128}
+        - {x: -126, y: -204}
+        - {x: -136, y: -236}
+        - {x: -120, y: -258}
+        - {x: -108, y: -252}
+        - {x: -58, y: -292}
+        - {x: -32, y: -292}
+        - {x: -10, y: -234}
+        - {x: 122, y: -180}
+        - {x: 106, y: -224}
+        - {x: 108, y: -272}
+        - {x: 150, y: -290}
+        - {x: 154, y: -282}
+        - {x: 142, y: -254}
+        - {x: 146, y: -242}
+        - {x: 152, y: -274}
+        - {x: 164, y: -292}
+        - {x: 166, y: -292}
+        - {x: 172, y: -290}
+        - {x: 188, y: -220}
+        - {x: 234, y: -182}
+        - {x: 270, y: -136}
+      tessellationDetail: 0.14
+      bones: []
+      spriteID: 7d0db92993c88d24e8d06709f90c5523
+      internalID: 195374098540047927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robert_Running_Anim_00010
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 736
+        width: 672
+        height: 672
+      alignment: 9
+      pivot: {x: 0.5, y: 0.11041667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 292, y: -136}
+        - {x: 294, y: -122}
+        - {x: 294, y: -96}
+        - {x: 272, y: -70}
+        - {x: 216, y: 10}
+        - {x: 196, y: -14}
+        - {x: 178, y: -10}
+        - {x: 170, y: -20}
+        - {x: 140, y: -102}
+        - {x: 62, y: -88}
+        - {x: -72, y: -40}
+        - {x: -108, y: 28}
+        - {x: -52, y: 40}
+        - {x: -42, y: 48}
+        - {x: -50, y: 72}
+        - {x: -72, y: 96}
+        - {x: -118, y: 96}
+        - {x: -136, y: 94}
+        - {x: -170, y: 50}
+        - {x: -170, y: -4}
+        - {x: -168, y: -26}
+        - {x: -152, y: -50}
+        - {x: -106, y: -86}
+        - {x: -66, y: -100}
+        - {x: -140, y: -150}
+        - {x: -166, y: -154}
+        - {x: -170, y: -162}
+        - {x: -170, y: -204}
+        - {x: -112, y: -186}
+        - {x: -138, y: -230}
+        - {x: -130, y: -266}
+        - {x: -104, y: -282}
+        - {x: -98, y: -278}
+        - {x: -52, y: -204}
+        - {x: 22, y: -202}
+        - {x: 134, y: -194}
+        - {x: 178, y: -270}
+        - {x: 210, y: -284}
+        - {x: 242, y: -284}
+        - {x: 266, y: -254}
+        - {x: 212, y: -178}
+        - {x: 258, y: -174}
+      tessellationDetail: 0.14
+      bones: []
+      spriteID: 9c527350d17773c4d82978dc672f6300
+      internalID: -2129525101204720862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robert_Running_Anim_00011
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 64
+        width: 672
+        height: 672
+      alignment: 9
+      pivot: {x: 0.5, y: 0.11041667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 292, y: -250}
+        - {x: 304, y: -248}
+        - {x: 272, y: -218}
+        - {x: 310, y: -210}
+        - {x: 310, y: -196}
+        - {x: 288, y: -174}
+        - {x: 310, y: -134}
+        - {x: 310, y: -94}
+        - {x: 290, y: -66}
+        - {x: 234, y: 16}
+        - {x: 176, y: 4}
+        - {x: 146, y: -104}
+        - {x: -12, y: -68}
+        - {x: -70, y: 34}
+        - {x: -8, y: 8}
+        - {x: 4, y: 76}
+        - {x: -24, y: 94}
+        - {x: -46, y: 102}
+        - {x: -84, y: 102}
+        - {x: -104, y: 94}
+        - {x: -130, y: 66}
+        - {x: -146, y: 12}
+        - {x: -126, y: -42}
+        - {x: -56, y: -92}
+        - {x: -176, y: -146}
+        - {x: -180, y: -166}
+        - {x: -180, y: -172}
+        - {x: -178, y: -176}
+        - {x: -162, y: -174}
+        - {x: -170, y: -196}
+        - {x: -180, y: -230}
+        - {x: -180, y: -246}
+        - {x: -178, y: -254}
+        - {x: -162, y: -254}
+        - {x: -90, y: -190}
+        - {x: -6, y: -200}
+        - {x: 130, y: -206}
+        - {x: 250, y: -250}
+      tessellationDetail: 0.14
+      bones: []
+      spriteID: 6d250246bd7b6c74698cdfc35b9615d2
+      internalID: 6731286301928011880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

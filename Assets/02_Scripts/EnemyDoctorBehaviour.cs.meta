@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: b5df7658199a5844b97b35d6da10526d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - doctorMoveData: {fileID: 11400000, guid: e188ce93c3c3969438d975a11d171d15, type: 2}
+  - targetObject: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

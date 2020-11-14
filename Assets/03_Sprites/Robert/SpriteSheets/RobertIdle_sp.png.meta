@@ -1,0 +1,2060 @@
+fileFormatVersion: 2
+guid: 5d6c91667ac4607458ab6d0016c3c30b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4648588610240759031
+    second: Robert_Animation_ANI_00001
+  - first:
+      213: -2140864727688136473
+    second: Robert_Animation_ANI_00002
+  - first:
+      213: -7429057926590378108
+    second: Robert_Animation_ANI_00003
+  - first:
+      213: -2718847586287067880
+    second: Robert_Animation_ANI_00004
+  - first:
+      213: 2075596281479243939
+    second: Robert_Animation_ANI_00005
+  - first:
+      213: -7992603495048354108
+    second: Robert_Animation_ANI_00006
+  - first:
+      213: -6142768193152307405
+    second: Robert_Animation_ANI_00007
+  - first:
+      213: -6038545601926817226
+    second: Robert_Animation_ANI_00008
+  - first:
+      213: -9172909005980901891
+    second: Robert_Animation_ANI_00009
+  - first:
+      213: -3412101665438639570
+    second: Robert_Animation_ANI_00010
+  - first:
+      213: -5000681049495625103
+    second: Robert_Animation_ANI_00011
+  - first:
+      213: 5349347209118782872
+    second: Robert_Animation_ANI_00012
+  - first:
+      213: 7848043921188993131
+    second: Robert_Animation_ANI_00013
+  - first:
+      213: 6299671678554232065
+    second: Robert_Animation_ANI_00014
+  - first:
+      213: -1708517565031492873
+    second: Robert_Animation_ANI_00015
+  - first:
+      213: -4059829397773155172
+    second: Robert_Animation_ANI_00016
+  - first:
+      213: 7745151315314236272
+    second: Robert_Animation_ANI_00017
+  - first:
+      213: -2753278856125313891
+    second: Robert_Animation_ANI_00018
+  - first:
+      213: -3220025763509120746
+    second: Robert_Animation_ANI_00019
+  - first:
+      213: 7002799838755761678
+    second: Robert_Animation_ANI_00020
+  - first:
+      213: -8107855984667986543
+    second: Robert_Animation_ANI_00021
+  - first:
+      213: -1548949934053300019
+    second: Robert_Animation_ANI_00022
+  - first:
+      213: 7793100011090723210
+    second: Robert_Animation_ANI_00023
+  - first:
+      213: 9076911798319497299
+    second: Robert_Animation_ANI_00024
+  - first:
+      213: -4122171459107325260
+    second: Robert_Animation_ANI_00025
+  - first:
+      213: 5431109925252481651
+    second: Robert_Animation_ANI_00026
+  - first:
+      213: -5758679480065445504
+    second: Robert_Animation_ANI_00027
+  - first:
+      213: 8196348286550347503
+    second: Robert_Animation_ANI_00028
+  - first:
+      213: 8818462691037812849
+    second: Robert_Animation_ANI_00029
+  - first:
+      213: -5372381240650032914
+    second: Robert_Animation_ANI_00030
+  - first:
+      213: -4240655816426728977
+    second: Robert_Animation_ANI_00031
+  - first:
+      213: 6332671346935735706
+    second: Robert_Animation_ANI_00032
+  - first:
+      213: 2576602755317632480
+    second: Robert_Animation_ANI_00033
+  - first:
+      213: -313207123906751523
+    second: Robert_Animation_ANI_00034
+  - first:
+      213: -112556601475825469
+    second: Robert_Animation_ANI_00035
+  - first:
+      213: 6009207371126573324
+    second: Robert_Animation_ANI_00036
+  - first:
+      213: -108957237006704422
+    second: Robert_Animation_ANI_00037
+  - first:
+      213: -8077076597189490143
+    second: Robert_Animation_ANI_00038
+  - first:
+      213: 2692860082082733395
+    second: Robert_Animation_ANI_00039
+  - first:
+      213: -728841251173040108
+    second: Robert_Animation_ANI_00040
+  - first:
+      213: -533641029582265205
+    second: Robert_Animation_ANI_00041
+  - first:
+      213: 2447131401306651752
+    second: Robert_Animation_ANI_00042
+  - first:
+      213: 9076683495774274257
+    second: Robert_Animation_ANI_00043
+  - first:
+      213: -1393365501583356197
+    second: Robert_Animation_ANI_00044
+  - first:
+      213: 8521912406292273577
+    second: Robert_Animation_ANI_00045
+  - first:
+      213: 7237737666470101617
+    second: Robert_Animation_ANI_00046
+  - first:
+      213: -1445505358349007613
+    second: Robert_Animation_ANI_00047
+  - first:
+      213: -7401898465745506963
+    second: Robert_Animation_ANI_00048
+  - first:
+      213: -4150319020357263051
+    second: Robert_Animation_ANI_00049
+  - first:
+      213: 3706915818145306422
+    second: Robert_Animation_ANI_00050
+  - first:
+      213: 3810882853241609465
+    second: Robert_Animation_ANI_00051
+  - first:
+      213: -3277596323707215273
+    second: Robert_Animation_ANI_00052
+  - first:
+      213: -2216242299632051819
+    second: Robert_Animation_ANI_00053
+  - first:
+      213: 8874769833252574525
+    second: Robert_Animation_ANI_00054
+  - first:
+      213: 4481503855539925397
+    second: Robert_Animation_ANI_00055
+  - first:
+      213: 4020676202554825063
+    second: Robert_Animation_ANI_00056
+  - first:
+      213: 4692515336652722885
+    second: Robert_Animation_ANI_00057
+  - first:
+      213: 5209314616540778878
+    second: Robert_Animation_ANI_00058
+  - first:
+      213: -1487357677153358526
+    second: Robert_Animation_ANI_00059
+  - first:
+      213: 3160045843353789786
+    second: Robert_Animation_ANI_00060
+  - first:
+      213: 7327612863107466653
+    second: Robert_Animation_ANI_00061
+  - first:
+      213: -6224836185145255871
+    second: Robert_Animation_ANI_00062
+  - first:
+      213: 3904796683116333539
+    second: Robert_Animation_ANI_00063
+  - first:
+      213: 9106823667192820080
+    second: Robert_Animation_ANI_00064
+  - first:
+      213: 281255663289372939
+    second: Robert_Animation_ANI_00065
+  - first:
+      213: -3259234259334031506
+    second: Robert_Animation_ANI_00066
+  - first:
+      213: -949747019041985332
+    second: Robert_Animation_ANI_00067
+  - first:
+      213: 3922507422033524679
+    second: Robert_Animation_ANI_00068
+  - first:
+      213: -2064210704099747080
+    second: Robert_Animation_ANI_00069
+  - first:
+      213: 1158816003666402898
+    second: Robert_Animation_ANI_00070
+  - first:
+      213: -4326552785345309182
+    second: Robert_Animation_ANI_00071
+  - first:
+      213: -4905765474410007504
+    second: Robert_Animation_ANI_00072
+  - first:
+      213: -9089371761696516981
+    second: RobertIdle_sp_0
+  - first:
+      213: -4588543513722009455
+    second: RobertIdle_sp_1
+  - first:
+      213: 4942247471921593382
+    second: RobertIdle_sp_2
+  - first:
+      213: 199668709424222663
+    second: RobertIdle_sp_3
+  - first:
+      213: -6254105678361969755
+    second: RobertIdle_sp_4
+  - first:
+      213: 7218911516975920344
+    second: RobertIdle_sp_5
+  - first:
+      213: -3003606937664965309
+    second: RobertIdle_sp_6
+  - first:
+      213: -201384716680785831
+    second: RobertIdle_sp_7
+  - first:
+      213: -751138575836610278
+    second: RobertIdle_sp_8
+  - first:
+      213: -9119921475689763261
+    second: RobertIdle_sp_9
+  - first:
+      213: -4561714431958309794
+    second: RobertIdle_sp_10
+  - first:
+      213: 4453588739624825616
+    second: RobertIdle_sp_11
+  - first:
+      213: -8468596555354539061
+    second: RobertIdle_sp_12
+  - first:
+      213: 8988119759473803623
+    second: RobertIdle_sp_13
+  - first:
+      213: -6114870751828745526
+    second: RobertIdle_sp_14
+  - first:
+      213: -3554910472151519569
+    second: RobertIdle_sp_15
+  - first:
+      213: 3693668237514150778
+    second: RobertIdle_sp_16
+  - first:
+      213: 5278459955385475800
+    second: RobertIdle_sp_17
+  - first:
+      213: 8355178952712410661
+    second: RobertIdle_sp_18
+  - first:
+      213: 5010216913030634504
+    second: RobertIdle_sp_19
+  - first:
+      213: 3333626619924868682
+    second: RobertIdle_sp_20
+  - first:
+      213: 5611098328300181624
+    second: RobertIdle_sp_21
+  - first:
+      213: 6039700424863421877
+    second: RobertIdle_sp_22
+  - first:
+      213: 1819258978001440069
+    second: RobertIdle_sp_23
+  - first:
+      213: 2581183000859348666
+    second: RobertIdle_sp_24
+  - first:
+      213: 2363144839905375447
+    second: RobertIdle_sp_25
+  - first:
+      213: 3260716847816175614
+    second: RobertIdle_sp_26
+  - first:
+      213: 3437132865051964493
+    second: RobertIdle_sp_27
+  - first:
+      213: -7249453382729826513
+    second: RobertIdle_sp_28
+  - first:
+      213: 7502585776272026858
+    second: RobertIdle_sp_29
+  - first:
+      213: 433836582874527697
+    second: RobertIdle_sp_30
+  - first:
+      213: 1333723065201979663
+    second: RobertIdle_sp_31
+  - first:
+      213: -7657691084071577872
+    second: RobertIdle_sp_32
+  - first:
+      213: -1618298325665199073
+    second: RobertIdle_sp_33
+  - first:
+      213: 1542587977531179386
+    second: RobertIdle_sp_34
+  - first:
+      213: -4995034378342002054
+    second: RobertIdle_sp_35
+  - first:
+      213: -3301455933041761118
+    second: RobertIdle_sp_36
+  - first:
+      213: -6443924316722700573
+    second: RobertIdle_sp_37
+  - first:
+      213: -7444367576921258747
+    second: RobertIdle_sp_38
+  - first:
+      213: -1258851951641997206
+    second: RobertIdle_sp_39
+  - first:
+      213: 5393802128097452699
+    second: RobertIdle_sp_40
+  - first:
+      213: -6456075603480467268
+    second: RobertIdle_sp_41
+  - first:
+      213: 5586135755551872067
+    second: RobertIdle_sp_42
+  - first:
+      213: -9108707553983417116
+    second: RobertIdle_sp_43
+  - first:
+      213: 26633121227336669
+    second: RobertIdle_sp_44
+  - first:
+      213: -2760019906657125062
+    second: RobertIdle_sp_45
+  - first:
+      213: -1920387106657838211
+    second: RobertIdle_sp_46
+  - first:
+      213: 8469925155359770428
+    second: RobertIdle_sp_47
+  - first:
+      213: 2793010769850350993
+    second: RobertIdle_sp_48
+  - first:
+      213: -7745826538321612583
+    second: RobertIdle_sp_49
+  - first:
+      213: 5593649639927726576
+    second: RobertIdle_sp_50
+  - first:
+      213: 6886653419897747503
+    second: RobertIdle_sp_51
+  - first:
+      213: -5091645979628665301
+    second: RobertIdle_sp_52
+  - first:
+      213: 1375014317210947209
+    second: RobertIdle_sp_53
+  - first:
+      213: 68449188163829813
+    second: RobertIdle_sp_54
+  - first:
+      213: -4483254127628197212
+    second: RobertIdle_sp_55
+  - first:
+      213: 4499590503494330800
+    second: RobertIdle_sp_56
+  - first:
+      213: -3797117683982088900
+    second: RobertIdle_sp_57
+  - first:
+      213: -2369752816171430
+    second: RobertIdle_sp_58
+  - first:
+      213: 8255096055345760975
+    second: RobertIdle_sp_59
+  - first:
+      213: 2589035643295194883
+    second: RobertIdle_sp_60
+  - first:
+      213: 8759980724382343232
+    second: RobertIdle_sp_61
+  - first:
+      213: -9014517286072850495
+    second: RobertIdle_sp_62
+  - first:
+      213: -7890631966245890845
+    second: RobertIdle_sp_63
+  - first:
+      213: -628195254912100521
+    second: RobertIdle_sp_64
+  - first:
+      213: -8235091904022550963
+    second: RobertIdle_sp_65
+  - first:
+      213: -8990688552151536111
+    second: RobertIdle_sp_66
+  - first:
+      213: -4321026842414782218
+    second: RobertIdle_sp_67
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Robert_Animation_ANI_00001
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7285
+        width: 907
+        height: 907
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0962963}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f4c35436ba138040800000000000000
+      internalID: 4648588610240759031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robert_Animation_ANI_00002
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6378
+        width: 907
+        height: 907
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0962963}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e83cf97fde1a42e0800000000000000
+      internalID: -2140864727688136473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robert_Animation_ANI_00003
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5471
+        width: 907
+        height: 907
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0962963}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48fc7c53d2fa6e890800000000000000
+      internalID: -7429057926590378108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robert_Animation_ANI_00004
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4564
+        width: 907
+        height: 907
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0962963}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81d5eec7686b44ad0800000000000000
+      internalID: -2718847586287067880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robert_Animation_ANI_00005
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3657
+        width: 907
+        height: 907
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0962963}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a821be22dffdcc10800000000000000
+      internalID: 2075596281479243939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robert_Animation_ANI_00006
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2750
+        width: 907
+        height: 907
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0962963}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c6e817c771941190800000000000000
+      internalID: -7992603495048354108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robert_Animation_ANI_00007
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1843
+        width: 907
+        height: 907
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0962963}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33fa695cfd080caa0800000000000000
+      internalID: -6142768193152307405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robert_Animation_ANI_00008
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 936
+        width: 907
+        height: 907
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0962963}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63a9725c4c6c23ca0800000000000000
+      internalID: -6038545601926817226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robert_Animation_ANI_00009
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 29
+        width: 907
+        height: 907
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0962963}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfdd685fbd743b080800000000000000
+      internalID: -9172909005980901891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robert_Animation_ANI_00010
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 7285
+        width: 907
+        height: 907
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0962963}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2ad2060d97c5a0d0800000000000000
+      internalID: -3412101665438639570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robert_Animation_ANI_00011
+      rect:
+        serializedVersion: 2
+        x: 1814
+        y: 7285
+        width: 907
+        height: 907
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0962963}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17229c984130a9ab0800000000000000
+      internalID: -5000681049495625103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robert_Animation_ANI_00012
+      rect:
+        serializedVersion: 2
+        x: 2721
+        y: 7285
+        width: 907
+        height: 907
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0962963}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89590c3d1f2bc3a40800000000000000
+      internalID: 5349347209118782872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robert_Animation_ANI_00013
+      rect:
+        serializedVersion: 2
+        x: 3628
+        y: 7285
+        width: 907
+        height: 907
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0962963}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6832289d5ad9ec60800000000000000
+      internalID: 7848043921188993131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robert_Animation_ANI_00014
+      rect:
+        serializedVersion: 2
+        x: 4535
+        y: 7285
+        width: 907
+        height: 907
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0962963}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10550d9b30eec6750800000000000000
+      internalID: 6299671678554232065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robert_Animation_ANI_00015
+      rect:
+        serializedVersion: 2
+        x: 5442
+        y: 7285
+        width: 907
+        height: 907
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0962963}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f258c3a3502a48e0800000000000000
+      internalID: -1708517565031492873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robert_Animation_ANI_00016
+      rect:
+        serializedVersion: 2
+        x: 6349
+        y: 7285
+        width: 907
+        height: 907
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0962963}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c940b013ca698a7c0800000000000000
+      internalID: -4059829397773155172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robert_Animation_ANI_00017
+      rect:
+        serializedVersion: 2
+        x: 7256
+        y: 7285
+        width: 907
+        height: 907
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0962963}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07b54f0f51e4c7b60800000000000000
+      internalID: 7745151315314236272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robert_Animation_ANI_00018
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 6378
+        width: 907
+        height: 907
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0962963}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9c8e05c7736ac9d0800000000000000
+      internalID: -2753278856125313891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robert_Animation_ANI_00019
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 5471
+        width: 907
+        height: 907
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0962963}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 611de66e0ab2053d0800000000000000
+      internalID: -3220025763509120746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robert_Animation_ANI_00020
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 4564
+        width: 907
+        height: 907
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0962963}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0e2336d951fe2160800000000000000
+      internalID: 7002799838755761678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robert_Animation_ANI_00021
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 3657
+        width: 907
+        height: 907
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0962963}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 195f6df60fb1b7f80800000000000000
+      internalID: -8107855984667986543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robert_Animation_ANI_00022
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 2750
+        width: 907
+        height: 907
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0962963}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc863eddd36018ae0800000000000000
+      internalID: -1548949934053300019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robert_Animation_ANI_00023
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 1843
+        width: 907
+        height: 907
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0962963}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a81c724ab27a62c60800000000000000
+      internalID: 7793100011090723210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robert_Animation_ANI_00024
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 936
+        width: 907
+        height: 907
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0962963}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 350c264603ba7fd70800000000000000
+      internalID: 9076911798319497299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robert_Animation_ANI_00025
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 29
+        width: 907
+        height: 907
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0962963}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ba77ace5ea1bc6c0800000000000000
+      internalID: -4122171459107325260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robert_Animation_ANI_00026
+      rect:
+        serializedVersion: 2
+        x: 1814
+        y: 6378
+        width: 907
+        height: 907
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0962963}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 372c5c6a3bd2f5b40800000000000000
+      internalID: 5431109925252481651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robert_Animation_ANI_00027
+      rect:
+        serializedVersion: 2
+        x: 2721
+        y: 6378
+        width: 907
+        height: 907
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0962963}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0813e5f068f0510b0800000000000000
+      internalID: -5758679480065445504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robert_Animation_ANI_00028
+      rect:
+        serializedVersion: 2
+        x: 3628
+        y: 6378
+        width: 907
+        height: 907
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0962963}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fee073b27574fb170800000000000000
+      internalID: 8196348286550347503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robert_Animation_ANI_00029
+      rect:
+        serializedVersion: 2
+        x: 4535
+        y: 6378
+        width: 907
+        height: 907
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0962963}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17818546819716a70800000000000000
+      internalID: 8818462691037812849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robert_Animation_ANI_00030
+      rect:
+        serializedVersion: 2
+        x: 5442
+        y: 6378
+        width: 907
+        height: 907
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0962963}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee81519c9b77175b0800000000000000
+      internalID: -5372381240650032914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robert_Animation_ANI_00031
+      rect:
+        serializedVersion: 2
+        x: 6349
+        y: 6378
+        width: 907
+        height: 907
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0962963}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe1d03fb00a2625c0800000000000000
+      internalID: -4240655816426728977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robert_Animation_ANI_00032
+      rect:
+        serializedVersion: 2
+        x: 7256
+        y: 6378
+        width: 907
+        height: 907
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0962963}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a952661c90b22e750800000000000000
+      internalID: 6332671346935735706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robert_Animation_ANI_00033
+      rect:
+        serializedVersion: 2
+        x: 1814
+        y: 5471
+        width: 907
+        height: 907
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0962963}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ed0006fd8ee1c320800000000000000
+      internalID: 2576602755317632480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robert_Animation_ANI_00034
+      rect:
+        serializedVersion: 2
+        x: 1814
+        y: 4564
+        width: 907
+        height: 907
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0962963}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd39a6eb7c347abf0800000000000000
+      internalID: -313207123906751523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robert_Animation_ANI_00035
+      rect:
+        serializedVersion: 2
+        x: 1814
+        y: 3657
+        width: 907
+        height: 907
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0962963}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c088e70e5e107ef0800000000000000
+      internalID: -112556601475825469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robert_Animation_ANI_00036
+      rect:
+        serializedVersion: 2
+        x: 2721
+        y: 7285
+        width: 907
+        height: 907
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0962963}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0988a1144ef46350800000000000000
+      internalID: 6009207371126573324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robert_Animation_ANI_00037
+      rect:
+        serializedVersion: 2
+        x: 1814
+        y: 2750
+        width: 907
+        height: 907
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0962963}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad0e18068f7ec7ef0800000000000000
+      internalID: -108957237006704422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robert_Animation_ANI_00038
+      rect:
+        serializedVersion: 2
+        x: 1814
+        y: 1843
+        width: 907
+        height: 907
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0962963}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12a46e801a578ef80800000000000000
+      internalID: -8077076597189490143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robert_Animation_ANI_00039
+      rect:
+        serializedVersion: 2
+        x: 1814
+        y: 936
+        width: 907
+        height: 907
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0962963}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35dde5e2af5fe5520800000000000000
+      internalID: 2692860082082733395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robert_Animation_ANI_00040
+      rect:
+        serializedVersion: 2
+        x: 1814
+        y: 29
+        width: 907
+        height: 907
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0962963}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4100e2e5eb2a2e5f0800000000000000
+      internalID: -728841251173040108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robert_Animation_ANI_00041
+      rect:
+        serializedVersion: 2
+        x: 2721
+        y: 5471
+        width: 907
+        height: 907
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0962963}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b84ec2a9f402898f0800000000000000
+      internalID: -533641029582265205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robert_Animation_ANI_00042
+      rect:
+        serializedVersion: 2
+        x: 3628
+        y: 5471
+        width: 907
+        height: 907
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0962963}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86c36954b05f5f120800000000000000
+      internalID: 2447131401306651752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robert_Animation_ANI_00043
+      rect:
+        serializedVersion: 2
+        x: 4535
+        y: 5471
+        width: 907
+        height: 907
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0962963}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d2c6409c8bd6fd70800000000000000
+      internalID: 9076683495774274257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robert_Animation_ANI_00044
+      rect:
+        serializedVersion: 2
+        x: 5442
+        y: 5471
+        width: 907
+        height: 907
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0962963}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bde07db6575c9ace0800000000000000
+      internalID: -1393365501583356197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robert_Animation_ANI_00045
+      rect:
+        serializedVersion: 2
+        x: 6349
+        y: 5471
+        width: 907
+        height: 907
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0962963}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a99b08be2ae34670800000000000000
+      internalID: 8521912406292273577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robert_Animation_ANI_00046
+      rect:
+        serializedVersion: 2
+        x: 7256
+        y: 5471
+        width: 907
+        height: 907
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0962963}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1724a6b7f0c917460800000000000000
+      internalID: 7237737666470101617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robert_Animation_ANI_00047
+      rect:
+        serializedVersion: 2
+        x: 2721
+        y: 4564
+        width: 907
+        height: 907
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0962963}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3050fa2098880fbe0800000000000000
+      internalID: -1445505358349007613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robert_Animation_ANI_00048
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7285
+        width: 907
+        height: 907
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0962963}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6deab5ff8c274990800000000000000
+      internalID: -7401898465745506963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robert_Animation_ANI_00049
+      rect:
+        serializedVersion: 2
+        x: 2721
+        y: 3657
+        width: 907
+        height: 907
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0962963}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 531ee0f17da1766c0800000000000000
+      internalID: -4150319020357263051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robert_Animation_ANI_00050
+      rect:
+        serializedVersion: 2
+        x: 2721
+        y: 2750
+        width: 907
+        height: 907
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0962963}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 637d3d8eb4c917330800000000000000
+      internalID: 3706915818145306422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robert_Animation_ANI_00051
+      rect:
+        serializedVersion: 2
+        x: 2721
+        y: 1843
+        width: 907
+        height: 907
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0962963}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fcd71c93c9f2e430800000000000000
+      internalID: 3810882853241609465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robert_Animation_ANI_00052
+      rect:
+        serializedVersion: 2
+        x: 2721
+        y: 936
+        width: 907
+        height: 907
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0962963}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7522e405283a382d0800000000000000
+      internalID: -3277596323707215273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robert_Animation_ANI_00053
+      rect:
+        serializedVersion: 2
+        x: 2721
+        y: 29
+        width: 907
+        height: 907
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0962963}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5999c32ee535e31e0800000000000000
+      internalID: -2216242299632051819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robert_Animation_ANI_00054
+      rect:
+        serializedVersion: 2
+        x: 3628
+        y: 4564
+        width: 907
+        height: 907
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0962963}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d355f5e8424892b70800000000000000
+      internalID: 8874769833252574525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robert_Animation_ANI_00055
+      rect:
+        serializedVersion: 2
+        x: 4535
+        y: 4564
+        width: 907
+        height: 907
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0962963}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59130093300813e30800000000000000
+      internalID: 4481503855539925397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robert_Animation_ANI_00056
+      rect:
+        serializedVersion: 2
+        x: 5442
+        y: 4564
+        width: 907
+        height: 907
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0962963}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 769952a24bf4cc730800000000000000
+      internalID: 4020676202554825063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robert_Animation_ANI_00057
+      rect:
+        serializedVersion: 2
+        x: 6349
+        y: 4564
+        width: 907
+        height: 907
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0962963}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c2124036d92f1140800000000000000
+      internalID: 4692515336652722885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robert_Animation_ANI_00058
+      rect:
+        serializedVersion: 2
+        x: 7256
+        y: 4564
+        width: 907
+        height: 907
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0962963}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e71d92a2b043b4840800000000000000
+      internalID: 5209314616540778878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robert_Animation_ANI_00059
+      rect:
+        serializedVersion: 2
+        x: 3628
+        y: 3657
+        width: 907
+        height: 907
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0962963}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24de25fa218db5be0800000000000000
+      internalID: -1487357677153358526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robert_Animation_ANI_00060
+      rect:
+        serializedVersion: 2
+        x: 2721
+        y: 7285
+        width: 907
+        height: 907
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0962963}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a556d0fa3fcbadb20800000000000000
+      internalID: 3160045843353789786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robert_Animation_ANI_00061
+      rect:
+        serializedVersion: 2
+        x: 3628
+        y: 2750
+        width: 907
+        height: 907
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0962963}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d958a1d5319e0b560800000000000000
+      internalID: 7327612863107466653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robert_Animation_ANI_00062
+      rect:
+        serializedVersion: 2
+        x: 3628
+        y: 1843
+        width: 907
+        height: 907
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0962963}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1485b6f5870fc99a0800000000000000
+      internalID: -6224836185145255871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robert_Animation_ANI_00063
+      rect:
+        serializedVersion: 2
+        x: 3628
+        y: 936
+        width: 907
+        height: 907
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0962963}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e9c54115ef903630800000000000000
+      internalID: 3904796683116333539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robert_Animation_ANI_00064
+      rect:
+        serializedVersion: 2
+        x: 3628
+        y: 29
+        width: 907
+        height: 907
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0962963}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 071f52310efe16e70800000000000000
+      internalID: 9106823667192820080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robert_Animation_ANI_00065
+      rect:
+        serializedVersion: 2
+        x: 4535
+        y: 3657
+        width: 907
+        height: 907
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0962963}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b011e6d198837e300800000000000000
+      internalID: 281255663289372939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robert_Animation_ANI_00066
+      rect:
+        serializedVersion: 2
+        x: 5442
+        y: 3657
+        width: 907
+        height: 907
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0962963}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e679c9495bfd4c2d0800000000000000
+      internalID: -3259234259334031506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robert_Animation_ANI_00067
+      rect:
+        serializedVersion: 2
+        x: 6349
+        y: 3657
+        width: 907
+        height: 907
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0962963}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccc248f3e12d1d2f0800000000000000
+      internalID: -949747019041985332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robert_Animation_ANI_00068
+      rect:
+        serializedVersion: 2
+        x: 7256
+        y: 3657
+        width: 907
+        height: 907
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0962963}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c7342fc7bb8f6630800000000000000
+      internalID: 3922507422033524679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robert_Animation_ANI_00069
+      rect:
+        serializedVersion: 2
+        x: 4535
+        y: 2750
+        width: 907
+        height: 907
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0962963}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fa53902d437a53e0800000000000000
+      internalID: -2064210704099747080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robert_Animation_ANI_00070
+      rect:
+        serializedVersion: 2
+        x: 4535
+        y: 1843
+        width: 907
+        height: 907
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0962963}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25ed2920401f41010800000000000000
+      internalID: 1158816003666402898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robert_Animation_ANI_00071
+      rect:
+        serializedVersion: 2
+        x: 4535
+        y: 936
+        width: 907
+        height: 907
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0962963}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 206148f2a2ff4f3c0800000000000000
+      internalID: -4326552785345309182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robert_Animation_ANI_00072
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7285
+        width: 907
+        height: 907
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0962963}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0347a6afa483bebb0800000000000000
+      internalID: -4905765474410007504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
